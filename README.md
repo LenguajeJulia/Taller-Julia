@@ -50,7 +50,7 @@ Temario tentativo para el curso impartido durante la semana del 12 al 16 de Dici
   - Cálculo Diferencial
   - Cálculo Integral
   - Cálculo Vectorial
-  - Equaciones Difereciales
+  - Ecuaciones Diferenciales
 
 - Alto Desempeño
 - Medición de Rendimiento:
@@ -75,4 +75,4 @@ Los recursos necesarios para el taller pueden ser encontrados en el siguiente si
 
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
-El material didactico contenido en éste proyecto está disponible bajo la siguiente licencia: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+El material didáctico contenido en éste proyecto está disponible bajo la siguiente licencia: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
