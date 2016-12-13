@@ -6,7 +6,7 @@ Temario tentativo para el curso impartido durante la semana del 12 al 16 de Dici
 
 - Introducción
 - ¿Qué es Julia?
-- Justificación ¿Por qué aprender Julia?
+- ¿Por qué aprender Julia?
 - Herramientas para el uso de Julia:
   - Terminal
   - Compilador
@@ -32,6 +32,7 @@ Temario tentativo para el curso impartido durante la semana del 12 al 16 de Dici
     - Lógica booleana
   - Definición de Tipos
   - Promoción y Conversión
+
 - Arreglos multidimensionales
 - Diccionarios
 - Control de Flujo
@@ -71,8 +72,3 @@ Temario tentativo para el curso impartido durante la semana del 12 al 16 de Dici
 
 ## Recursos
 Los recursos necesarios para el taller pueden ser encontrados en el siguiente sitio: https://gist.github.com/abcsds/dd8934d1a7cc1a1ac211cc965c6cb6c1
-
-
-## Licencia
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
-El material didactico contenido en éste proyecto está disponible bajo la siguiente licencia: <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
