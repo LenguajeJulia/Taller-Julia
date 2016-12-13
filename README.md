@@ -34,6 +34,7 @@ Temario tentativo para el curso impartido durante la semana del 12 al 16 de Dici
   - Promoción y Conversión
 
 - Arreglos multidimensionales
+- Rangos
 - Diccionarios
 - Control de Flujo
   - Vectorización de ciclos `for`
