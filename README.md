@@ -51,7 +51,7 @@ Temario tentativo para el curso impartido durante la semana del 12 al 16 de Dici
   - Cálculo Diferencial
   - Cálculo Integral
   - Cálculo Vectorial
-  - Equaciones Difereciales
+  - Ecuaciones Diferenciales
 
 - Alto Desempeño
 - Medición de Rendimiento:
