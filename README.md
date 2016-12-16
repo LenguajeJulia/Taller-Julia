@@ -38,10 +38,10 @@ Temario tentativo para el curso impartido durante la semana del 12 al 16 de Dici
 - Arreglos multidimensionales
 - Rangos
 - Diccionarios
+
 - Control de Flujo
   - Vectorización de ciclos `for`
-  - Listas de comprensión
-
+  - Comprenciones
 - Módulos
   - Documentación
 - Instalación y uso de paquetes:
@@ -55,15 +55,14 @@ Temario tentativo para el curso impartido durante la semana del 12 al 16 de Dici
   - Cálculo Vectorial
   - Ecuaciones Diferenciales
 
+
+- Macros
+- Compilador e Interprete
 - Alto Desempeño
-- Medición de Rendimiento:
-  - Macros
-- Computo en Paralelo
+- Medición de Rendimiento
 - Mejorar Rendimiento
-- Otros Lenguajes:
-  - C/C++
-  - Python
-  - MATLAB
+
+- Computo en Paralelo
 - Creación de Paquetes
 - Estilo y entorno
 
